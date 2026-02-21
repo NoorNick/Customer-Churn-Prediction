@@ -4,7 +4,7 @@ This repository contains a Python implementation of a **Decision Tree** model to
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 - Uses a decision tree classifier to predict whether a customer will **churn (leave)** or **stay**.
 - Visualizes the decision tree for interpretability.
@@ -14,7 +14,7 @@ This repository contains a Python implementation of a **Decision Tree** model to
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -33,7 +33,7 @@ This repository contains a Python implementation of a **Decision Tree** model to
    jupyter notebook
    ```
 ---
-## 📊 What You Will See
+## What You Will See
 
 - A graphical visualization of the trained decision tree.
 
@@ -45,7 +45,7 @@ This repository contains a Python implementation of a **Decision Tree** model to
 
 - Suggested retention actions based on risk level.
 ---
-## 📋 Features Used in the Model
+## Features Used in the Model
 | Feature Name    | Description                                            |
 | --------------- | ------------------------------------------------------ |
 | Tenure (months) | How many months the customer has been with the company |
@@ -54,7 +54,5 @@ This repository contains a Python implementation of a **Decision Tree** model to
 | Contract Length | 0 = month-to-month, 1 = one year, 2 = two year         |
 | Support Calls   | Number of calls to customer support                    |
 | Service Issues  | Number of service issues reported                      |
-
-Happy predicting and retaining customers! 🎯
 
 
